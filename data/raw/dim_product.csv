@@ -1,0 +1,7 @@
+product_id,product_type,interest_rate,monthly_fee,revenue_type
+1,checking,0.0,10,fee
+2,savings,0.02,0,interest
+3,credit_card,0.18,15,interest
+4,personal_loan,0.12,0,interest
+5,mortgage,0.06,0,interest
+6,investment,0.05,25,fee
