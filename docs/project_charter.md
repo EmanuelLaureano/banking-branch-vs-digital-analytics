@@ -1,8 +1,8 @@
-1. Business problem
+# Business problem
 Are physical branches still economically justified compared to digital channels, and where should the bank invest or divest?
 
 
-2. Stakeholders
+# Stakeholders
 COO
 CFO
 Head of Retail Banking
@@ -10,7 +10,7 @@ Digital Director
 
 
 3. KPIs
--- Channel Performance KPIs
+**Channel Performance KPIs**
 
 Active customers by channel
 
@@ -20,7 +20,7 @@ Cost per customer
 
 Profit per customer
 
--- Branch Efficiency KPIs
+**Branch Efficiency KPIs**
 
 Branch operating cost
 
@@ -30,7 +30,7 @@ Transactions per branch
 
 Profitability by region
 
--- Customer Behavior KPIs
+**Customer Behavior KPIs**
 
 Digital adoption rate
 
@@ -41,7 +41,7 @@ Average balance
 Retention proxy (activity-based)
 
 
-3. Analytical views
+# Analytical views
 Branch vs Digital comparison
 
 Regional performance
@@ -49,7 +49,7 @@ Regional performance
 Customer lifecycle & migration
 
 
-4. High-level assumptions
+# High-level assumptions
 Digital customers have lower servicing cost
 
 Branch customers have higher average balances
